@@ -1,20 +1,12 @@
-#1st program
-print((9**0.5)*5)
-#2nd program
-print(9.99>9.98 and 1000!=1000.1)
-#3rd program
-print(2*2+2)
-print(2*(2+2))
-print(6==8)
-#4th program
-print('1234.56')
-print(type(float('123.456')))
-print(123.456*10)
-print(type(int(1234.56)))
-print(1234%10)
-
-
-
+name="Alexey:"
+Number_of_completed_DPS="total issues:12"
+Number_of_hours_spent="hours spent:1.5"
+Course_name="Course:Python"
+Time_per_task=1.5/12
+average_lead_time='average_lead_time:'
+print(name,Course_name,Number_of_completed_DPS,Number_of_hours_spent,average_lead_time,Time_per_task)
+# Press Shift+F10 to execute it or replace it with your code.
+# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 
 def print_hi(name):
